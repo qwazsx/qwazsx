@@ -36,13 +36,13 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ## Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=React.js)
+![React](https://img.shields.io/badge/-Reactjs-%23282C34?style=flat-square&logo=react.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material-ui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=Ant-design&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=Chart.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=Chart.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=Redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=Redux&logoColor=white)
 
 
 ## Database
@@ -57,12 +57,12 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ## Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
 
 # Other Tools
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=Confluence&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-square&logo=Confluence&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 **📫 Reach me at:**<br>
