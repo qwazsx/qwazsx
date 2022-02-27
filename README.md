@@ -31,6 +31,7 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 
 ## Backend
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
