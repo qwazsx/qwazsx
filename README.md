@@ -35,8 +35,8 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 
 ## Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-Reactjs-%23282C34?style=flat-square&logo=react.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material-ui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=Ant-design&logoColor=white)
@@ -57,7 +57,7 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ## Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
 
 # Other Tools
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=Jira&logoColor=white)
@@ -68,4 +68,4 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 **📫 Reach me at:**<br>
 
 [![Linkedin: Muhammed Fatih Cambek](https://img.shields.io/badge/-FatihCambek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)](https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)
-<a href="https://instagram.com/fatihcmbk" target="_blank"><img src="https://img.shields.io/badge/@fatihcmbk-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://instagram.com/fatihcmbk" target="_blank"><img src="https://img.shields.io/badge/@Fatihcmbk-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
