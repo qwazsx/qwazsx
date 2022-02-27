@@ -49,5 +49,5 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Muhammed Fatih Cambek](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)](https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)
+[![Linkedin: Muhammed Fatih Cambek](https://img.shields.io/badge/-FatihCambek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)](https://www.linkedin.com/in/muhammed-fatih-cambek-50b882144/)
 <a href="https://instagram.com/fatihcmbk" target="_blank"><img src="https://img.shields.io/badge/@fatihcmbk-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
