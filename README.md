@@ -51,8 +51,8 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ## Deploy & Hosting
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=Netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=Firebase)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=Netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase)
 
 ## Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
