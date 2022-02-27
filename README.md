@@ -36,7 +36,7 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ## Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react.js)
+![React](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material-ui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=Ant-design&logoColor=white)
