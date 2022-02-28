@@ -65,6 +65,7 @@ Software Engineer at <a href="https://dgpays.com/" target="_blank"><b>DgPays Pay
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-square&logo=Confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 
 **📫 Reach me at:**<br>
 
